@@ -13,3 +13,4 @@ members:
 - Kim
 
 fetch: hello
+signed: yes
